@@ -1,4 +1,4 @@
-[16:23, 29/01/2025] Shreya Singh Rathour: Here’s a *detailed step-by-step guide* to syncing a *private GitHub repository* to a *self-hosted GitLab* *for free* using a *cron job*.
+Here’s a *detailed step-by-step guide* to syncing a *private GitHub repository* to a *self-hosted GitLab* *for free* using a *cron job*.
 
 ---
 
